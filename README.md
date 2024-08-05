@@ -1,6 +1,6 @@
-# Go Module X
+# Go Module C
 
-Go module X
+Go module C
 
 ## Setup
 

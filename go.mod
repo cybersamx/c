@@ -1,3 +1,5 @@
-module github.com/cybersamx/go_mod_template
+module github.com/cybersamx/c
 
 go 1.21
+
+require github.com/cybersamx/e v1.0.0
