@@ -6,5 +6,5 @@ import (
 )
 
 func Version() string {
-	return fmt.Sprintf("c: v1.2.0\n%s", e.Version())
+	return fmt.Sprintf("c: v1.3.0\n%s", e.Version())
 }
